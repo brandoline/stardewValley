@@ -1,7 +1,13 @@
-# stardewValley
+## Wikia StardewValley
 
+## Sobre
+Projeto de estudos visando utilizar o framework bootstrap. Apresentado uma tela de informações sobre as personagens(pretendentes femininas) do cozy game Stardew Valley: foto, pequena descrição e itens apreciados como presentes.
+
+## Técnologias utilizadas
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+</ul>
 <!--Aplicação de framework(bootstrap), para estudos com html e css-->
-<h2>Stardew Valley - Página de pretendentes</h2>
-<p>Página mostrando pretendentes, gostos e breve introdução sobre eles. Estudo feito com a utilização de bootstrap</p>
-<img src="https://iili.io/3qN6JHJ.png" alt="Imagem de início">
-<img src="https://iili.io/3qNPJ19.png" alt="Imagem de início pt-2">
+
