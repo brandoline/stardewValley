@@ -1,7 +1,9 @@
 ## Wikia StardewValley
 
 ## Sobre
-Projeto de estudos visando utilizar o framework bootstrap. Apresentado uma tela de informações sobre as personagens(pretendentes femininas) do cozy game Stardew Valley: foto, pequena descrição e itens apreciados como presentes.
+Projeto de estudos visando utilizar o framework bootstrap. Apresentado uma tela de informações sobre as personagens(pretendentes) do cozy game Stardew Valley: foto, pequena descrição e itens apreciados como presentes.
+
+<a href="https://brandoline.github.io/stardewValley/" target="_blank">Clique aqui para ver o site!</a>
 
 ## Técnologias utilizadas
 <ul>
